@@ -2,7 +2,7 @@
   "name": "star-wars",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://yasminAshu.github.io/starWars/",
+  "homepage":"https://yasminAshu.github.io/yasminAshu.github.io",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "react": "^16.12.0",
