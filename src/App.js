@@ -4,7 +4,7 @@ import './App.css';
 import Search from '../src/component/Search'
 import '../src/css/style.css'
 import {
-  BrowserRouter as Router,
+  HashRouter as Router,
   Route
 } from "react-router-dom";
 const App = () => {
